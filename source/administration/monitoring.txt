@@ -227,6 +227,10 @@ on your own servers. Most are open source.
        <https://github.com/mzupan/nagios-plugin-mongodb>`_
 
      - A simple Nagios check script, written in Python.
+     
+  * - `Application Performance Management <https://www.ibmserviceengage.com/application-monitoring/learn>`_
+      - IBM has an Application Performance Management self hosted offering that
+        includes `monitor for MongoDB <https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=0587adbc-8477-431f-8c68-9226adea11ed#fullpageWidgetId=W42ce7c6afdb9_42c2_a9ea_e1ba310bea8c&file=2ea78e2e-0ad8-496a-a209-3eb53fccc61f>` and other `applications and middleware <http://www-01.ibm.com/support/knowledgecenter/SSUT2H_8.1.0/com.ibm.perfmgmt.doc_8.1.0/install/onprem_overview.htm>`.
 
 Also consider `dex <https://github.com/mongolab/dex>`_, an index and
 query analyzing tool for MongoDB that compares MongoDB log files and
